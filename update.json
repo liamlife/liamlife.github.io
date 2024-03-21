@@ -1,0 +1,23 @@
+{
+  "version": "v2.4.1",
+  "notes": "liam Test version",
+  "pub_date": "2024-03-20T19:25:57Z",
+  "platforms": {
+    "darwin-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUYnI2enhPOURzbzJDUHExeTladU9ROFdiTy9zUlJzajkyYlgyRVM3ZDg3N25ldFJBZnZ4TElPVU1qcERWaXlQN29KUXJhNmsrZ1Y5aFdDNGZMLzQzRnBIaytkeHlEMndRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzEwNDk1Njg0CWZpbGU6anlqaXJfMi40LjFfeDY0LXNldHVwLm5zaXMuemlwCklXQlpXcmtxWlkwbU5ybmMxd3dyMUU3MWM2bGp1NTJabkttM0hTOHZCOENNaTdzbHVaVG52Ymp3bDdTVkVqM2tXZTdRdGNxSkR2VGQ3azhkOXRqSUJ3PT0K",
+      "url": "https://liamlife.github.io/jyjir_2.4.1_x64-setup.nsis.zip"
+    },
+    "darwin-aarch64": {
+      "signature": "Content of app.tar.gz.sig",
+      "url": "https://github.com/username/reponame/releases/download/v1.0.0/app-aarch64.app.tar.gz"
+    },
+    "linux-x86_64": {
+      "signature": "Content of app.AppImage.tar.gz.sig",
+      "url": "https://github.com/username/reponame/releases/download/v1.0.0/app-amd64.AppImage.tar.gz"
+    },
+    "windows-x86_64": {
+      "signature": "Content of app-setup.nsis.sig or app.msi.sig, depending on the chosen format",
+      "url": "https://github.com/username/reponame/releases/download/v1.0.0/app-x64-setup.nsis.zip"
+    }
+  }
+}
